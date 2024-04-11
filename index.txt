@@ -1,6 +1,6 @@
 
 <?php
-// Spajanje na bazu podataka
+
 $servername = "localhost";
 $username = "root";
 $password = "";

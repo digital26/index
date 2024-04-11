@@ -13,7 +13,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-// Funkcija za generiranje nasumičnog stringa s brojevima i slovima
+
 function generateRandomString($length = 10) {
     $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
     $randomString = '';
@@ -24,11 +24,11 @@ function generateRandomString($length = 10) {
     return $randomString;
 }
 
-// Provjera da li je poslana vrijednost iz forme
+
 if(isset($_POST['submit'])){
     $count = $_POST['count'];
     
-    // Inicijalizacija niza za brojeve i slova
+
     $brojevi = array();
     $slova = array();
     
@@ -43,7 +43,7 @@ if(isset($_POST['submit'])){
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Generate Random Data</title>
+    <title>Random </title>
 </head>
 <style>
         table {

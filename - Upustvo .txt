@@ -1,0 +1,14 @@
+- Upustvo 
+kreirati bazu u xampu pod imenom my_database 
+kopirati kod iz text fila u sqlu i pritisnuti go
+formira se tabela unutar baze podataka 
+
+to je to što se tiče sqla 
+
+drui dio je php 
+
+otići u local u moj računar i local disk c zatim u xamp i naci htdocs folder. U njega prekopirati ovaj index.php file. Porvjetiti da li tu ima još kakvih filova , ako ima obristati.
+
+-Startati xamp i local host. 
+-otići u pretraživač i ukcati localhost. trebalo bi izaci polje za upis broja i kada generišeš 10 on ce ispisati 10 kolona sa jedne strane nasumičnim brojevima sa druge nasumičnim slovima tj karakterima. Ako sam ja dobro razumio.
+
